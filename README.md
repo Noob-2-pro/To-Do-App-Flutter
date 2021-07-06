@@ -1,6 +1,6 @@
 # todo_app
 
-A Flutter app to manage tasks.
+A Flutter app to manage tasks using [Provider](https://pub.dev/packages/provider) for state management.
 
 ## Features
 - Add or delete tasks
